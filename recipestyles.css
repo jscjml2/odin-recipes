@@ -19,7 +19,23 @@ ul {
     margin: 0 auto;
 }
 
-ol {
-    list-style: decimal inside none;
-    margin-left:810px;
+.lasagna {
+    display: table;
+    margin-left: 570px;
+    margin-right: auto;
+    list-style-position: inside;
+}
+
+.steak {
+    display: table;
+    margin-left: 560px;
+    margin-right: auto;
+    list-style-position: inside;
+}
+
+.dumpling{
+    display: table;
+    margin-left: 810px;
+    margin-right: auto;
+    list-style-position: inside;
 }
