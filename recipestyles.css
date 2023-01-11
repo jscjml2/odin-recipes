@@ -19,23 +19,9 @@ ul {
     margin: 0 auto;
 }
 
-.lasagna {
-    display: table;
-    margin-left: 570px;
-    margin-right: auto;
+ol{
     list-style-position: inside;
-}
-
-.steak {
+    padding-left: 0;
     display: table;
-    margin-left: 560px;
-    margin-right: auto;
-    list-style-position: inside;
-}
-
-.dumpling{
-    display: table;
-    margin-left: 810px;
-    margin-right: auto;
-    list-style-position: inside;
+    margin: 0 auto;
 }
